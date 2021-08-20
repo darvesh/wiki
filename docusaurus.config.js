@@ -39,7 +39,7 @@ module.exports = {
 		},
 		footer: {
 			style: "dark",
-			copyright: `Copyright © ${new Date().getFullYear()} Darvesh, Inc. Built with Docusaurus.`,
+			copyright: `Copyright © ${new Date().getFullYear()} Darvesh. Built with Docusaurus.`,
 		},
 		prism: {
 			theme: lightCodeTheme,
