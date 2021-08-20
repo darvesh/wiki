@@ -6,11 +6,7 @@ export default function HomepageFeatures() {
 	return (
 		<section className={styles.features}>
 			<div className="container">
-				<div className="row">
-					{["A", "B", "C"].map((prop, idx) => (
-						<div key={idx}> {prop}</div>
-					))}
-				</div>
+				<div className="row">Work in progress</div>
 			</div>
 		</section>
 	);

@@ -28,6 +28,13 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 	background-color: rgba(0, 0, 0, 0.3);
 }
 
+/* Search bar */
 .aa-Autocomplete {
 	width: 170px;
+}
+
+/* Homepage */
+.hero {
+	background-color: #000511;
+	color: #e8dced;
 }

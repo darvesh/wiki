@@ -4,7 +4,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
 	title: "Darvesh",
-	tagline: "Personal website",
+	tagline: "---",
 	url: "https://darve.sh",
 	baseUrl: "/",
 	onBrokenLinks: "throw",
